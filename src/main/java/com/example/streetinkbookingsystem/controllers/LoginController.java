@@ -37,7 +37,7 @@ public class LoginController {
         // hvis du bruger azure databasen skal du IKKE bruge den /!\
 
 
-        // loginService.hashExistingPasswords();
+        //loginService.hashExistingPasswords();
         return "home/login";
     }
 
